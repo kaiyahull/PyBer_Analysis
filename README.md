@@ -6,9 +6,11 @@ Performing the analysis was an exercise in using Python and its pandas library. 
 
 ## Results
 <img src="analysis/PyBer_fare_summary.png">
+
 **Total Fares by City Type from January to April 28, 2019**
 
 <img src="analysis/PyBer_summary_df.png">
+
 **PyBer summary DataFrame (2019)**
 
 
