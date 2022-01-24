@@ -6,10 +6,12 @@ Performing the analysis was an exercise in using Python and its pandas library. 
 
 ## Results
 <img src="analysis/PyBer_fare_summary.png">
-*Total Fares by City Type from January to April 28, 2019*
+**Total Fares by City Type from January to April 28, 2019**
 
 <img src="analysis/PyBer_summary_df.png">
-*PyBer summary DataFrame (2019)*
+**PyBer summary DataFrame (2019)**
+
+
 
 The PyBer summary DataFrame provides a broad overview of PyBer's ride-sharing data. It summarizes information about rides, fares, drivers, and respective averages by city type for the entire dataset provided. While it does contain more information than the chart visualization, it also requires more time to understand the information presented and draw conclusions. Alternatively, the multi-line chart only displays the total fares earned by each city type during a specific time period, specifically January 1 - April 28, 2019. However, the benefit of the multi-line chart is its ease of interpretation. Since the chart is easy to understand, the CEO and other executives can quickly make conclusions that will aid in making decisions to guide the business in the right direction because their decisions will be backed by data. 
 
